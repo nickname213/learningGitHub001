@@ -1,0 +1,6 @@
+{
+  "appTitle": "puppy_match",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
